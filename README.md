@@ -10,4 +10,4 @@ The prompt is actually written in italian (that's my language, i was unable to w
 
 Last thing: this jailbreak is not based on any other prompt, and is completley open source: any improvment or translation is accepted; just, please, put a reference to this repository. If you want, you can contact me with the addresses in my personal page.
 
-Disclaimer: I'M NOT RESPONSABLE OF ANY DAMEGE CAUSED BY YOU OR BY THE JAILBREAKED ChatGPT. THIS PROJECT IS ONLY FOR EDUCATIONAL USE AND IS STILL LEGAL. USE THIS AT YOUR OWN RISK.
+Disclaimer: I'M NOT RESPONSABLE OF ANY DAMEGE CAUSED BY YOU OR BY THE JAILBROKEN ChatGPT. THIS PROJECT IS ONLY FOR EDUCATIONAL USE AND IS STILL LEGAL. USE THIS AT YOUR OWN RISK.
